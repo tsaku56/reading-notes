@@ -1,13 +1,18 @@
 # Growth Mindset
 
-Having a growth mindset and a right attitude gives you **limitless potential** in **learning**.
+Having a growth mindset and a right attitude gives you **limitless potential** in **learning**.  
 
-Using double spaces is the correct way to start a new paragraph.  
+> A good practise of a growth mindest includes:
 
-A good practise of a growth mindest includes:
+>- Embracing challenges.
+>- Learn from Feedback.
+>- Persisting in the face of setbacks.
+>- Find inspiration in the success of others.
 
->- Embracing challenges
->- Learn from Feedback
->- Persisting in the face of setbacks
->- Find inspiration in the success of others
+### Introduction
 
+Good Morning everyone, my name is Ross. I am looking forward to going through this journey with everyone.  
+
+I am looking towards our graduation in the near future!
+
+![Celebration](https://i.etsystatic.com/11051185/r/il/ea26f8/1914586297/il_570xN.1914586297_shgg.jpg)
