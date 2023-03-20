@@ -13,9 +13,9 @@ A good practise of a growth mindest includes:
 
 Good Morning everyone, my name is Ross. I am from a Manufacturing background with an interest in Computing.  
 
-Coding does seem like a colossal challenge but we will help each other through this opportunity.
+>Coding does seem like a colossal challenge but we will help each other through this opportunity.
 
-I am looking forward to going through this journey with everyone and our eventual graduation in the near future!  
+>I am looking forward to going through this journey with everyone and our eventual graduation in the near future!  
 
 Here's my plan:  
 
