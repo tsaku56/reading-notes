@@ -19,10 +19,10 @@ I am looking forward to going through this journey with everyone and our eventua
 
 Here's my plan:  
 
-- [x] Drink Coffee.
-- [ ] Do the course.
-- [ ] Drink Coffee.
-- [ ] Sleep.
+1. Drink Coffee.
+2. Do the course.
+3. Drink Coffee.
+4. Sleep.
 
 My [GitHub](https://github.com/tsaku56)
 
