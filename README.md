@@ -17,6 +17,8 @@ Coding does seem like a colossal challenge but we will help each other through t
 
 I am looking forward to going through this journey with everyone and our eventual graduation in the near future!  
 
+Here's my plan:  
+
 - [x] Drink Coffee.
 - [ ] Do the course.
 - [ ] Drink Coffee.
