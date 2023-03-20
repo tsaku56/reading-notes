@@ -15,7 +15,11 @@ Good Morning everyone, my name is Ross. I am from a Manufacturing background wit
 
 Coding does seem like a colossal challenge but we will help each other through this opportunity.
 
-I am looking forward to going through this journey with everyone and our eventual graduation in the near future!
+I am looking forward to going through this journey with everyone and our eventual graduation in the near future!  
+
+1. Do the course.
+2. Drink Coffe.
+3. Sleep.
 
 My [GitHub](https://github.com/tsaku56)
 
