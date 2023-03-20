@@ -20,7 +20,7 @@ I am looking forward to going through this journey with everyone and our eventua
 - [x] Drink Coffee.
 - [ ] Do the course.
 - [ ] Drink Coffee.
-- [  Sleep.
+- [ ] Sleep.
 
 My [GitHub](https://github.com/tsaku56)
 
