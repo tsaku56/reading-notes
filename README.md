@@ -2,7 +2,7 @@
 
 Having a growth mindset and a right attitude gives you **limitless potential** in **learning**.  
 
-> A good practise of a growth mindest includes:
+A good practise of a growth mindest includes:
 
 >- Embracing challenges.
 >- Learn from Feedback.
