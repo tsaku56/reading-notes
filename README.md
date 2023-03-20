@@ -21,7 +21,7 @@ Here's my plan:
 
 - [x] Drink Coffee.
 - [ ] Do the course.
-- [ ] Drink H~2~0
+- [ ] Drink h~2~0
 - [ ] Sleep.
 
 My [GitHub](https://github.com/tsaku56)
