@@ -17,9 +17,10 @@ Coding does seem like a colossal challenge but we will help each other through t
 
 I am looking forward to going through this journey with everyone and our eventual graduation in the near future!  
 
-1. Do the course.
-2. Drink Coffe.
-3. Sleep.
+1. Drink Coffee.
+2. Do the course.
+3. Drink Coffee.
+4. Sleep.
 
 My [GitHub](https://github.com/tsaku56)
 
