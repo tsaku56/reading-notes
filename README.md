@@ -21,12 +21,10 @@ Here's my plan:
 
 - [x] Drink Coffee.
 - [ ] Do the course.
-- [ ] Drink Coffee.
+- [ ] Drink H~2~0.
 - [ ] Sleep.
 
 My [GitHub](https://github.com/tsaku56)
-
-'what is this'
 
 ![Celebration](https://i.etsystatic.com/11051185/r/il/ea26f8/1914586297/il_570xN.1914586297_shgg.jpg)
 
