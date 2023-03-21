@@ -1,6 +1,7 @@
 # TechEd - Ross' Notes
 
-### Introduction
+### Introduction  
+---
 
 Hello everyone, my name is Ross. I am from a Manufacturing background with an interest in Computing. 
 
@@ -13,14 +14,16 @@ I am looking forward to going through this journey with everyone and our eventua
 
 My [GitHub](https://github.com/tsaku56)
 
-### What its all about?
+### What its all about?  
+---
 
 ![Who knows](https://i.imgflip.com/3kcba9.jpg?a466272)
 
 This website is a representation of my progress through this course. I am starting to understand structuring a site.  
 Through this progression, there will be more updates and my skill base will excel over time as a developer.
 
-### Table of Contents
+### Table of Contents  
+---
 
 **Course 102**
 
