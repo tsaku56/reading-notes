@@ -1,10 +1,8 @@
-# HomePage
+# TechEd - Ross' Notes
 
 ### Introduction
 
 Hello everyone, my name is Ross. I am from a Manufacturing background with an interest in Computing. 
-
-
 
 Coding does seem like a colossal challenge but we will help each other through this opportunity.
 
