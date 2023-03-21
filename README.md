@@ -25,33 +25,33 @@ Through this progression, there will be more updates and my skill base will exce
 ### Table of Contents  
 ---
 
-**Course 102**
+**Course 102 Notes**
 
-- [Class 01 - Growth Mindset](https://tsaku56.github.io/reading-notes/code-102/102class-01) 
-- [Class 02 - Revisions and the Cloud](https://tsaku56.github.io/reading-notes/code-102/102class-02)
-- [Class 03 - Structure web pages with HTML](https://tsaku56.github.io/reading-notes/code-102/102class-03)
-- [Class 04 - Who knows](https://tsaku56.github.io/reading-notes/code-102/102class-04)
-- [Class 05 - Who knows](https://tsaku56.github.io/reading-notes/code-102/102class-05)
-- [Class 06 - Who knows](https://tsaku56.github.io/reading-notes/code-102/102class-06)
-- [Class 07 - Who knows](https://tsaku56.github.io/reading-notes/code-102/102class-07)
-- [Class 08 - Who knows](https://tsaku56.github.io/reading-notes/code-102/102class-08)
+- [Class 01 - Learning Markdown](https://tsaku56.github.io/reading-notes/code-102/102class-01) 
+- [Class 02 - Growth Mindset](https://tsaku56.github.io/reading-notes/code-102/102class-02)
+- [Class 03 - Revisions and the Cloud](https://tsaku56.github.io/reading-notes/code-102/102class-03)
+- [Class 04 - Structure web pages with HTML](https://tsaku56.github.io/reading-notes/code-102/102class-04)
+- [Class 05 - Design web pages with CSS](https://tsaku56.github.io/reading-notes/code-102/102class-05)
+- [Class 06 - Dynamic web pages with JavaScript](https://tsaku56.github.io/reading-notes/code-102/102class-06)
+- [Class 07 - Programming with JavaScript](https://tsaku56.github.io/reading-notes/code-102/102class-07)
+- [Class 08 - Operators and Loops](https://tsaku56.github.io/reading-notes/code-102/102class-08)
 
-**Course 201**
+**Course 201 Notes**
 
-- [Class 01 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-01)
-- [Class 02 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-02)
-- [Class 03 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-03)
-- [Class 04 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-04)
-- [Class 05 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-05)
-- [Class 06 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-06)
-- [Class 07 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-07)
-- [Class 08 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-08)
-- [Class 09 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-09)
-- [Class 10 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-10)
-- [Class 11 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-11)
-- [Class 12 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-12)
-- [Class 13 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-13)
-- [Class 14 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-14)
-- [Class 15 - Who knows](https://tsaku56.github.io/reading-notes/code-201/102class-15)
+- [Class 01 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-01)
+- [Class 02 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-02)
+- [Class 03 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-03)
+- [Class 04 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-04)
+- [Class 05 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-05)
+- [Class 06 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-06)
+- [Class 07 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-07)
+- [Class 08 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-08)
+- [Class 09 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-09)
+- [Class 10 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-10)
+- [Class 11 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-11)
+- [Class 12 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-12)
+- [Class 13 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-13)
+- [Class 14 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-14)
+- [Class 15 - Who knows](https://tsaku56.github.io/reading-notes/code-201/201class-15)
 
 ---
