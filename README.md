@@ -1,21 +1,28 @@
-# Introduction
+# HomePage
+
+### Introduction
 
 Good Morning everyone, my name is Ross. I am from a Manufacturing background with an interest in Computing.  
 
 Coding does seem like a colossal challenge but we will help each other through this opportunity.
 
-I am looking forward to going through this journey with everyone and our eventual graduation in the near future!  
+I am looking forward to going through this journey with everyone and our eventual graduation in the near future.  
 
-Here's my plan:  
+>“Adults are always asking children what they want to be when they grow up because they’re looking for ideas.” 
+>—Paula Poundstone
 
-1. Drink Coffee.
-2. Do the course.
-3. Drink Coffee.
-4. Sleep.
+![Celebration](https://i.etsystatic.com/11051185/r/il/ea26f8/1914586297/il_570xN.1914586297_shgg.jpg)
+
+### What its all about?
+
+![Who knows](https://i.imgflip.com/3kcba9.jpg?a466272)
+
+This website is a representation of my progress through this course. I am starting to understand structuring a site.  
+Through this progression, there will be more updates and my skill base will excel over time as a developer.
 
 My [GitHub](https://github.com/tsaku56)
 
-![Celebration](https://i.etsystatic.com/11051185/r/il/ea26f8/1914586297/il_570xN.1914586297_shgg.jpg)
+### Table of Contents
 
 **Course 102**
 
