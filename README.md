@@ -29,4 +29,4 @@ My [GitHub](https://github.com/tsaku56)
 ![Celebration](https://i.etsystatic.com/11051185/r/il/ea26f8/1914586297/il_570xN.1914586297_shgg.jpg)
 
 **Course 102**
-[Class 01 - Growth Mindset](https://tsaku56.github.io/reading-notes/code-102/102class-01) |
+- [Class 01 - Growth Mindset](https://tsaku56.github.io/reading-notes/code-102/102class-01) 
