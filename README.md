@@ -25,7 +25,7 @@ Through this progression, there will be more updates and my skill base will exce
 **Course 102**
 
 - [Class 01 - Growth Mindset](https://tsaku56.github.io/reading-notes/code-102/102class-01) 
-- [Class 02 - GitHub A.C.P.](https://tsaku56.github.io/reading-notes/code-102/102class-02)
+- [Class 02 - GitHub Revisions and the Cloud](https://tsaku56.github.io/reading-notes/code-102/102class-02)
 - [Class 03 - Who knows]
 - [Class 04 - Who knows]
 - [Class 05 - Who knows]
