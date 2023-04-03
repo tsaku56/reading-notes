@@ -1,20 +1,22 @@
 # TechEd - Ross' Notes
 
-### Introduction  
+### Introduction
+
 ---
 
-Hello everyone, my name is Ross. I am from a Manufacturing background with an interest in Computing. 
+Hello everyone, my name is Ross. I am from a Manufacturing background with an interest in Computing.
 
 Coding does seem like a colossal challenge but we will help each other through this opportunity.
 
-I am looking forward to going through this journey with everyone and our eventual graduation in the near future.  
+I am looking forward to going through this journey with everyone and our eventual graduation in the near future.
 
->“Adults are always asking children what they want to be when they grow up because they’re looking for ideas.” 
->—Paula Poundstone
+> “Adults are always asking children what they want to be when they grow up because they’re looking for ideas.”
+> —Paula Poundstone
 
 My [GitHub](https://github.com/tsaku56)
 
-### What its all about?  
+### What its all about?
+
 ---
 
 ![Who knows](https://i.imgflip.com/3kcba9.jpg?a466272)
@@ -22,12 +24,13 @@ My [GitHub](https://github.com/tsaku56)
 This website is a representation of my progress through this course. I am starting to understand structuring a site.  
 Through this progression, there will be more updates and my skill base will excel over time as a developer.
 
-### Table of Contents  
+### Table of Contents
+
 ---
 
 **Course 102 Notes**
 
-- [Class 01 - Learning Markdown](https://tsaku56.github.io/reading-notes/code-102/102class-01) 
+- [Class 01 - Learning Markdown](https://tsaku56.github.io/reading-notes/code-102/102class-01)
 - [Class 02 - Growth Mindset](https://tsaku56.github.io/reading-notes/code-102/102class-02)
 - [Class 03 - Revisions and the Cloud](https://tsaku56.github.io/reading-notes/code-102/102class-03)
 - [Class 04 - Structure web pages with HTML](https://tsaku56.github.io/reading-notes/code-102/102class-04)
